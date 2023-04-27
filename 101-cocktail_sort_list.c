@@ -88,6 +88,7 @@ void cocktail_sort_list(listint_t **list)
 	for (tail = *list; tail->next != NULL;)
 		tail = tail->next;
 
+
 	while (shaken_not_stirred == false)
 	{
 		shaken_not_stirred = true;
