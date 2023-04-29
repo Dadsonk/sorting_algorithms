@@ -1,6 +1,6 @@
 /*
  * File: 101-cocktail_sort_list.c
- * Auth: Imanol Asolo
+ * Auth: Dadsonk
  */
 
 
